@@ -1,2 +1,3 @@
 # wildbeast-css-grid-origamid
-CSS Grid layout from origamid course
+
+CSS Grid layout course from Origamid
